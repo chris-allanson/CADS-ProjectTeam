@@ -28,20 +28,20 @@ Trello has been setup for the Kanban board and scrum management system. All four
 
 
 Since we are going to build a game in Unity and use C# as our default programming language, the entire team needs to reach at least a basic level of understanding. Sarah and Dan are relatively well-versed in the language. Chris and I (Arjun) are continuing to learn C# from team discussions and shared online tutorials. For reference purposes I have placed a code snippet here that will provide the basis for basic understanding of the language:
-`/*---BEGIN CODE---*/<br/>
-using System; //using is a directive that tells the compiler the program is using a namespace called system<br/>
-using Systems.Collections.Generic;<br/>
-using System.Ling;<br/>
-using System.Text;<br/>
-using System.Threading.Tasks;<br/>
-namespace WelcomeGreeting {<br/>
-class Program{<br/>
-static void Main(string[] args){<br/>
-Console.WriteLine("Welcome to Space Invaders Meets Bit Runner");<br/>
-Console.Read();<br/>
-}<br/>
-}<br/>
-}<br/>
-/*---END CODE---*/`<br/>
+`/*---BEGIN CODE---*/`<br/>
+`using System; //using is a directive that tells the compiler the program is using a namespace called system`<br/>
+`using Systems.Collections.Generic;`<br/>
+`using System.Ling;`<br/>
+`using System.Text;`<br/>
+`using System.Threading.Tasks;`<br/>
+`namespace WelcomeGreeting {`<br/>
+`class Program{`<br/>
+`static void Main(string[] args){`<br/>
+`Console.WriteLine("Welcome to Space Invaders Meets Bit Runner");`<br/>
+`Console.Read();`<br/>
+`}`<br/>
+`}`<br/>
+`}`<br/>
+`/*---END CODE---*/`<br/>
 
 By the way, here is the cheatsheet to markup / markdown GitHub entries the way professional programmers and GitHub contributors typically follow. URL: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
