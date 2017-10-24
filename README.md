@@ -45,3 +45,5 @@ Since we are going to build a game in Unity and use C# as our default programmin
 `/*---END CODE---*/`<br/>
 
 By the way, here is the cheatsheet to markup / markdown GitHub entries the way professional programmers and GitHub contributors typically follow. URL: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+Have updated the Main() method for console logging, which will be part of the debugging routine for our game in Unity. Have also assigned individual and group names to the tasks in the Kanban Trello board for each activity card. Following up on C#, the `Main()` method is the gateway for console applications. The `Main()` method will hold the console executable code that will run within the curly braces. We might use this in Unity for basic game scripting and logging during testing and debugging. In addition, we will be discussing and further refining our concept of space invaders meets rhythm game in our next meeting this week. Trello Kanban board fully operational and awaiting to-do list completion for more immediate tasks. The Kanban board has now also been updated with tasks assigned to individuals and groups within our team.
