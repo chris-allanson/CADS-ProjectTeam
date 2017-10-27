@@ -53,3 +53,5 @@ In addition to C#, Unity accepts a lot of other languages including JavaScript, 
 Sorry, one more addition for Boo if / when we decide to consider using its syntax in our current project. This link is for Boo's development community in GitHub, which could be extremely useful. https://github.com/boo-lang
 
 Unreal Engine and Unity - the benefits of both come down to what is most appropriate for the game we are building. While our team is using Unity for our project, the lesson on Blueprints with Unreal Engine opens up more possibilities. Essentially, what are called Blueprints in Unreal Engine are prefabs in Unity - the underlying principles are almost identical.
+
+Kanban board for team tasks have been updated on 27 October 2017 (https://github.com/chris-allanson/CADS-ProjectTeam/blob/master/KANBAN-BOARD-27-OCT-2017.png) and next team meeting is set for 4 November 2017 at 10am.
