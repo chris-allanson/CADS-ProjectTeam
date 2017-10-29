@@ -55,3 +55,5 @@ Sorry, one more addition for Boo if / when we decide to consider using its synta
 Unreal Engine and Unity - the benefits of both come down to what is most appropriate for the game we are building. While our team is using Unity for our project, the lesson on Blueprints with Unreal Engine opens up more possibilities. Essentially, what are called Blueprints in Unreal Engine are prefabs in Unity - the underlying principles are almost identical.
 
 Kanban board for team tasks have been updated on 27 October 2017 (https://github.com/chris-allanson/CADS-ProjectTeam/blob/master/KANBAN-BOARD-27-OCT-2017.png) and next team meeting is set for 4 November 2017 at 10am.
+
+Useful C# reference for coding out our game on Unity. After the tutorial on Friday with Blueprints (Unreal Engine) the importance of coding is becoming clearer and its impetus in getting a job in this industry, as well as for this project, makes learning the language vital to success, in both University and in the industry hereafter. Here is the link for the tutorial: https://www.tutorialspoint.com/csharp/
